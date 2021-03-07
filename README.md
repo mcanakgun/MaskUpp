@@ -1,4 +1,4 @@
-# wear_mask
+# MaskUpp
 
 A new Flutter application.
 
