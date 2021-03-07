@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140608163409",
+    "project_id": "maskupp-78b3b",
+    "storage_bucket": "maskupp-78b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140608163409:android:34aedf72db584f83a07270",
+        "android_client_info": {
+          "package_name": "com.example.wear_mask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140608163409-d034pv8vmur8isetahp66qjsa5kmbbes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wear_mask",
+            "certificate_hash": "0b936a11e9e8e1d3f68c5f43fcd84461f25c4cec"
+          }
+        },
+        {
+          "client_id": "140608163409-6sc7en54623h84fvs77ccdr87uj4fc2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjRS9ttPhavAh2O5hsv8ZMiH1IaR79Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140608163409-6sc7en54623h84fvs77ccdr87uj4fc2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
